@@ -24,4 +24,3 @@
 [1] Benutzerauthentifizierung
 ---
 
-<!-- include: ../../task/3.3.md -->

@@ -18,7 +18,7 @@ theme:
 
 [2] Biometriche Benutzerauthentifizierung
 
-[3] Kerberos 
+[3] Kerberos
 
 [4] Quellen
 
